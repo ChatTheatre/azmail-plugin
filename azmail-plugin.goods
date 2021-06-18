@@ -1,0 +1,10 @@
+{
+    "name": "Azmail Plugin",
+    "git": {
+        "url": "https://github.com/ChatTheatre/azmail-plugin",
+        "branch": "main"
+    },
+    "paths": {
+        "skoot/data/vault": "data/vault"
+    }
+}
